@@ -1,0 +1,27 @@
+c:\users\baudouin\documents\visual studio 2013\Projects\essai qr code\essai qr code\obj\Debug\essai_qr_code.Form1.resources
+c:\users\baudouin\documents\visual studio 2013\Projects\essai qr code\essai qr code\obj\Debug\essai_qr_code.Properties.Resources.resources
+c:\users\baudouin\documents\visual studio 2013\Projects\essai qr code\essai qr code\obj\Debug\essai qr code.csproj.GenerateResource.Cache
+C:\Users\Baudouin\documents\visual studio 2013\Projects\essai qr code\essai qr code\bin\Debug\essai qr code.exe.config
+C:\Users\Baudouin\documents\visual studio 2013\Projects\essai qr code\essai qr code\bin\Debug\essai qr code.exe
+C:\Users\Baudouin\documents\visual studio 2013\Projects\essai qr code\essai qr code\bin\Debug\essai qr code.pdb
+C:\Users\Baudouin\documents\visual studio 2013\Projects\essai qr code\essai qr code\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Baudouin\documents\visual studio 2013\Projects\essai qr code\essai qr code\obj\Debug\essai qr code.exe
+C:\Users\Baudouin\documents\visual studio 2013\Projects\essai qr code\essai qr code\obj\Debug\essai qr code.pdb
+C:\Users\TONYBash\Desktop\essai qr code\essai qr code\bin\Debug\essai qr code.exe.config
+C:\Users\TONYBash\Desktop\essai qr code\essai qr code\obj\Debug\essai qr code.pdb
+C:\Users\TONYBash\Desktop\essai qr code\essai qr code\bin\Debug\essai qr code.exe
+C:\Users\TONYBash\Desktop\essai qr code\essai qr code\bin\Debug\essai qr code.pdb
+C:\Users\TONYBash\Desktop\essai qr code\essai qr code\obj\Debug\essai qr code.csprojResolveAssemblyReference.cache
+C:\Users\TONYBash\Desktop\essai qr code\essai qr code\obj\Debug\essai_qr_code.Form1.resources
+C:\Users\TONYBash\Desktop\essai qr code\essai qr code\obj\Debug\essai_qr_code.Properties.Resources.resources
+C:\Users\TONYBash\Desktop\essai qr code\essai qr code\obj\Debug\essai qr code.csproj.GenerateResource.Cache
+C:\Users\TONYBash\Desktop\essai qr code\essai qr code\obj\Debug\essai qr code.exe
+D:\essai qr code\essai qr code\bin\Debug\essai qr code.exe.config
+D:\essai qr code\essai qr code\obj\Debug\essai qr code.exe
+D:\essai qr code\essai qr code\obj\Debug\essai qr code.pdb
+D:\essai qr code\essai qr code\bin\Debug\essai qr code.exe
+D:\essai qr code\essai qr code\bin\Debug\essai qr code.pdb
+D:\essai qr code\essai qr code\obj\Debug\essai qr code.csprojResolveAssemblyReference.cache
+D:\essai qr code\essai qr code\obj\Debug\essai_qr_code.Form1.resources
+D:\essai qr code\essai qr code\obj\Debug\essai_qr_code.Properties.Resources.resources
+D:\essai qr code\essai qr code\obj\Debug\essai qr code.csproj.GenerateResource.Cache
